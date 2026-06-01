@@ -2,8 +2,6 @@
 
 > CSC1181 – Foundations of Statistical Analysis & Machine Learning | 2025 Autumn | Dublin City University
 
-> 📄 View full notebook on nbviewer: [Supplementary & Extended Analysis](https://nbviewer.org/github/shubin-li/sdss17-astronomical-classification/blob/main/Astronomical_Object_Classification%28Supplementary_%26_Extended_Analysis%29.ipynb) — if GitHub fails to render
-
 ## Overview
 
 This project applies machine learning to classify astronomical objects (Stars, Galaxies, Quasars) using the [Stellar Classification Dataset – SDSS17](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17) from Kaggle. The dataset contains 100,000 observations with 17 features including photometric filters (u, g, r, i, z) and redshift values.
