@@ -42,11 +42,11 @@ Supplementary analysis with improved feature selection further boosted Logistic 
 
 ## Team
 
-| Name                 | Role                                                 |
-| -------------------- | ---------------------------------------------------- |
-| Varad Abhay Mahadik  | Core codebase, data processing, modelling, PPT       |
-| Shubin Li            | Supplementary analysis, error analysis & limitations |
-| Aadesh Sunil Kshetre | Code merging, report review, PPT design              |
-| Yu Yu Lwin           | Full report writing & analysis                       |
+| Name                 | Role                                                                                                             |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Shubin Li            | Extended analysis, independent codebase, feature selection improvements, error analysis, model tuning experiments |
+| Varad Abhay Mahadik  | Initial baseline pipeline, data processing                                                                       |
+| Yu Yu Lwin           | Report writing & analysis                                                                                        |
+| Aadesh Sunil Kshetre | PPT design                                                                                                       |
 
 Dublin City University, 2025
