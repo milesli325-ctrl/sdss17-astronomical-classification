@@ -1,6 +1,4 @@
-# 🌌 Astronomical Object Classification Using Machine Learning on SDSS17 Data
-
-> CSC1181 – Foundations of Statistical Analysis & Machine Learning | 2025 Autumn | Dublin City University
+# Astronomical Object Classification Using Machine Learning on SDSS17 Data
 
 ## Overview
 
@@ -44,9 +42,11 @@ Supplementary analysis with improved feature selection further boosted Logistic 
 
 ## Team
 
-| Name | Student ID | Role |
-|---|---|---|
-| Varad Abhay Mahadik | A00051764 | Core codebase, data processing, modelling, PPT |
-| Shubin Li | A00048674 | Supplementary analysis, error analysis & limitations |
-| Aadesh Sunil Kshetre | A00052071 | Code merging, report review, PPT design |
-| Yu Yu Lwin | A00053026 | Full report writing & analysis |
+| Name                 | Role                                                 |
+| -------------------- | ---------------------------------------------------- |
+| Varad Abhay Mahadik  | Core codebase, data processing, modelling, PPT       |
+| Shubin Li            | Supplementary analysis, error analysis & limitations |
+| Aadesh Sunil Kshetre | Code merging, report review, PPT design              |
+| Yu Yu Lwin           | Full report writing & analysis                       |
+
+Dublin City University, 2025
