@@ -31,8 +31,9 @@ Supplementary analysis with improved feature selection further boosted Logistic 
 ## Repository Structure
 
 ```
-├── Astronomical_Object_Classification(Codebase).ipynb         # Core models & evaluation
-├── Astronomical_Object_Classification(Supplementary).ipynb    # Extended analysis
+├── Astronomical_Object_Classification(Codebase).ipynb           # Baseline models & evaluation
+├── Astronomical_Object_Classification(Extended_Analysis).ipynb  # Feature selection improvements, error analysis, model tuning
+├── Report.pdf                                                   # Academic paper
 └── README.md
 ```
 
